@@ -1,0 +1,16 @@
+Stanovené termíny:
+- Dodrželi jsme pouze založení repozitáře v termínu
+- Další termíny jsme již odsouvali, protože jsme neodhadli čas při plánování
+- Všechno se pak začlo nabalovat a vzešlo z toho, že jsme využili i poslední noc odevzdání projektu
+-Příště bychom určitě věnovali více času řádnému naplánovaní a rozvržení, protože nám to mohlo výrazně ulehčit a urychlit práci
+
+Rozdělení úkolů:
+- Část rozdělení jsme dodrželi
+- Další část jsme přerozdělili kvůli časové vytíženosti členů a kvůli technickým potížím
+
+Komunikační kanály:
+- Discord dodržen, GitHub jsme omezili kvůli množství režie
+- Pravidelné konzultace jsme nedodrželi vždy
+
+Správa verzí:
+- Dodrženo

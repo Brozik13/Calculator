@@ -1,0 +1,65 @@
+Vitejte v prirucce pro praci s kalkulackou
+------------------------------------------------
+Pracovni plocha je plocha kam zadavate priklady a pocetni operace.
+	Muzete zadavat pomoci tlacitek na kalkulacce i pomoci klavesnice.
+	Pri zadavani pomoci klavesnice je vsak nutne strikne dodrzet syntax.
+------------------------------------------------
+Desetinna tecka slouzi k oddeleni desetinnych cislic od celych.
+	Syntax: 10,25 -> 10,celych a 25 setin
+------------------------------------------------
+Zaporne cislo
+	Priklad: -2-2 => -4
+	Syntax: -2
+------------------------------------------------
+Scitani je zakladni matematicka operace scitani.
+	Syntax: 2+2 -> 2 "plus" 2 => 4
+------------------------------------------------
+Odcitani je zakladni matematicka operace odcitani.
+	Syntax: 2-2 -> 2 "minus" 2 => 0
+------------------------------------------------
+Nasobeni je zakladni matematicka operace nasobeni.
+	Syntax: 2*3 -> 2 "krat" 3 => 6
+------------------------------------------------
+Deleni je zakladni matematicka operace deleni.
+	Syntax: 2/2 -> 2 "deleno" 2 => 1
+------------------------------------------------
+Zavorka leva a prava je znak udavajici prednost urcitych operacim.
+	Priklad: 2(2+2) => 8, prednost melo scitani v zavorce
+	Syntax: (2+2) -> "zavorka" 2+2 "zavorka" => 4
+------------------------------------------------
+Mocnina je zrychleny zapis nasobeni cisla sebe sameho.
+	Pri umocnovani je dulezite mit mocnitele v zavorce.
+	Syntax: 2^(3) -> 2 "na" 3 => 8
+------------------------------------------------
+Odmocnina je castecna inverzni funkce k mocnine.
+	Pri odmocnovani je dulezite mit hodnotu odmocniny pred "|" 
+	a odmocnovanou hodnotu v zavorce za "r".
+	Syntax: 2|r(9) -> 2."odmocnina z" 9 => 3
+------------------------------------------------
+Faktorial n je soucin kladnych celych cisel, mensich n a n
+	Priklad: 5! -> 5*4*3*2*1 => 120
+	Syntax: 5! -> "faktorial" 5 => 120
+------------------------------------------------
+Logaritmus je inverzni funkce k matematicke exponencialni funkce
+	Priklad: 10*10 ->"10na2" => 100, log10{100} => 2
+	Syntax: 10|l(100) -> "logaritmus" 10 "ze" 100 => 2
+!!!	Pro logaritmus o zakladu X z cisla Y musi platit,
+	ze X je mensi nebo rovno Y
+------------------------------------------------
+Backspace je funkce ktera vymaze vas posledni zadany znak
+	Klaveskova zkratka: "Backspace"
+------------------------------------------------
+Clear je funkce ktera vymaze vsechno z pracovni plochy
+	Klavesova zkratka:"Esc"
+------------------------------------------------
+Result je funkce ktera vypocita priklad a vypise jej
+	do Pracovni plochy, kde s vysledkem muzete nadale
+	pocitat a nebo jej vymazat funkci Clear
+	Klavesova zkratka:"Enter"
+------------------------------------------------
+
+
+
+
+
+

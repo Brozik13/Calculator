@@ -1,0 +1,18 @@
+Stanovené termíny:
+31.3. založení repozitáře
+7.4. základní funkčnost kalkulačky
+15.4. plná funkčnost kalkulačky
+20.4. dokončení projektu
+
+Rozdělení úkolů:
+xbroza03 - (icon, dokumentace, backend, profiling)
+xmikul75 - (dokumentace, testy, backend, uživatelská příručka)
+xcenge01 - (frontend + propojování mezi funkcemi, dokumentace, profiling)
+
+Komunikační kanály:
+Discord, Github, nouzově Messenger
+Pravidelné konzultace v pondělí 18:00 a středa 18:00, víkendy dle potřeby
+
+Správa verzí: Git
+Hosting: Github (Udělení přístupu: přidání kolaboranta ivs.kontrola@gmail.com)
+

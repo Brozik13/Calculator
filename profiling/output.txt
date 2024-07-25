@@ -1,0 +1,7 @@
+Pro vstupy 10^1 a 10^3 nebyl poznat rozdíl (někdy trvalo déle jedno někdy druhé)
+a celkový čas byl proti runtimovému a systémovému volání zanedbatelný (okolo 8 procent)
+takže pro tyto vstupy by nemělo smysl optimalizovat. Ale při vstupu 10^6 by optimalizace
+již smysl dávala a to zejména přepsat nějakým efektivnějším způsobem funkci string.Split(),
+která zabrala 27% procent běhu programu a funkci double.TryParse(), která zabrala 22% běhu,
+což už by bylo složitější přepsat. A nakonec ještě dost zabrala funkce Console.ReadLine(),
+ale tam by byla optimalizace zbytečná, jelikož si myslím že zabrala tolik hlavně kvůli systémovým volání.
